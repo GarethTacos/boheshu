@@ -1,2 +1,2 @@
-# boheshu
+# Boheshu
 random programming language lol
